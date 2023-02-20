@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Application\bin\Debug\net6.0\CreditCardValidator.Application.deps.json
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Application\bin\Debug\net6.0\CreditCardValidator.Application.dll
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Application\bin\Debug\net6.0\CreditCardValidator.Application.pdb
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Application\bin\Debug\net6.0\CreditCardValidator.Domain.dll
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Application\bin\Debug\net6.0\CreditCardValidator.Domain.pdb
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Application\obj\Debug\net6.0\CreditCardValidator.Application.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Application\obj\Debug\net6.0\CreditCardValidator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Application\obj\Debug\net6.0\CreditCardValidator.Application.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Application\obj\Debug\net6.0\CreditCardValidator.Application.AssemblyInfo.cs
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Application\obj\Debug\net6.0\CreditCardValidator.Application.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Application\obj\Debug\net6.0\CreditCardValidator.Application.csproj.CopyComplete
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Application\obj\Debug\net6.0\CreditCardValidator.Application.dll
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Application\obj\Debug\net6.0\refint\CreditCardValidator.Application.dll
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Application\obj\Debug\net6.0\CreditCardValidator.Application.pdb
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Application\obj\Debug\net6.0\ref\CreditCardValidator.Application.dll

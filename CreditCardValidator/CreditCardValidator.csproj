@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\demo.css" />
+    <None Include="wwwroot\css\styles.css" />
+    <None Include="wwwroot\images\amex.jpg" />
+    <None Include="wwwroot\images\mastercard.jpg" />
+    <None Include="wwwroot\images\visa.jpg" />
+    <None Include="wwwroot\js\jquery.payform.min.js" />
+    <None Include="wwwroot\js\script.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+  </ItemGroup>
+
+</Project>

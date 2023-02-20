@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CreditCardValidator.Application/1.0.0": {
+        "dependencies": {
+          "CreditCardValidator.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CreditCardValidator.Application.dll": {}
+        }
+      },
+      "CreditCardValidator.Domain/1.0.0": {
+        "runtime": {
+          "CreditCardValidator.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreditCardValidator.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreditCardValidator.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N3d9sziI6bBqJmWIUx9Qvg5JcjkwC4DRHhc3Wb89C1NDtY26zA3lSFuO+NfhPVHyr/HYQDHs39AP+gJadX0bHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\CreditCardValidator_ConnX\\CreditCardValidator\\CreditCardValidator.Infrastructure\\CreditCardValidator.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

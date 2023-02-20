@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CreditCardValidator.Infrastructure/1.0.0": {
+        "dependencies": {
+          "CreditCardValidator.Application": "1.0.0",
+          "MediatR": "9.0.0"
+        },
+        "runtime": {
+          "CreditCardValidator.Infrastructure.dll": {}
+        }
+      },
+      "MediatR/9.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.0.0"
+          }
+        }
+      },
+      "CreditCardValidator.Application/1.0.0": {
+        "dependencies": {
+          "CreditCardValidator.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CreditCardValidator.Application.dll": {}
+        }
+      },
+      "CreditCardValidator.Domain/1.0.0": {
+        "runtime": {
+          "CreditCardValidator.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreditCardValidator.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MediatR/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8b3UYNxegHVYcJMG2zH8wn+YqxLvXG+eMfj0cMCq/jTW72p6O3PCKMkrIv0mqyxdW7bA4gblsocw7n+/9Akg5g==",
+      "path": "mediatr/9.0.0",
+      "hashPath": "mediatr.9.0.0.nupkg.sha512"
+    },
+    "CreditCardValidator.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreditCardValidator.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

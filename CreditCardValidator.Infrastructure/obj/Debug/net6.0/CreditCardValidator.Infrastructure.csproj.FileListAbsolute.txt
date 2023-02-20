@@ -1,0 +1,17 @@
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Infrastructure\bin\Debug\net6.0\CreditCardValidator.Infrastructure.deps.json
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Infrastructure\bin\Debug\net6.0\CreditCardValidator.Infrastructure.dll
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Infrastructure\bin\Debug\net6.0\CreditCardValidator.Infrastructure.pdb
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Infrastructure\bin\Debug\net6.0\CreditCardValidator.Application.dll
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Infrastructure\bin\Debug\net6.0\CreditCardValidator.Domain.dll
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Infrastructure\bin\Debug\net6.0\CreditCardValidator.Application.pdb
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Infrastructure\bin\Debug\net6.0\CreditCardValidator.Domain.pdb
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Infrastructure\obj\Debug\net6.0\CreditCardValidator.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Infrastructure\obj\Debug\net6.0\CreditCardValidator.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Infrastructure\obj\Debug\net6.0\CreditCardValidator.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Infrastructure\obj\Debug\net6.0\CreditCardValidator.Infrastructure.AssemblyInfo.cs
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Infrastructure\obj\Debug\net6.0\CreditCardValidator.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Infrastructure\obj\Debug\net6.0\CreditCardValidator.Infrastructure.csproj.CopyComplete
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Infrastructure\obj\Debug\net6.0\CreditCardValidator.Infrastructure.dll
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Infrastructure\obj\Debug\net6.0\refint\CreditCardValidator.Infrastructure.dll
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Infrastructure\obj\Debug\net6.0\CreditCardValidator.Infrastructure.pdb
+C:\Users\Acer\source\repos\CreditCardValidator_ConnX\CreditCardValidator\CreditCardValidator.Infrastructure\obj\Debug\net6.0\ref\CreditCardValidator.Infrastructure.dll
